@@ -1,0 +1,87 @@
+{
+
+  "prodcuts": [
+
+    {
+
+      "id": 1,
+
+      "name": "Sennheiser Earphone CX 100 Wireless Earphones",
+
+      "cost": "20"
+
+    },
+
+    {
+
+      "id": 2,
+
+      "name": "beyerdynamic Beat BYRD Wired in-ear earpiece",
+
+      "cost": "45"
+
+    },
+
+            {
+
+       "id": 3,
+
+      "name": "Powerbeats High-Performance Wireless Earphones",
+
+      "cost": "60"
+
+    },
+
+    {
+
+       "id": 4,
+
+      "name": "Plantronics BLACKWIRE Stereo UC Headset",
+
+      "cost": "55"
+
+    },
+
+    {
+
+       "id": 5,
+
+      "name": "Shure Aonic 100 Noise Cancelling Headphones",
+
+      "cost": "120"
+
+    },
+
+     {
+
+       "id": 6,
+
+      "name": "Adidas High-Performance Wireless Bluetooth Earphone",
+
+      "cost": "100"
+
+    },
+
+    {
+
+       "id": 7,
+
+      "name": "Wiresto Gaming Earphones In Ear Headphones Wired Earphones",
+
+      "cost": "100"
+
+    },
+
+    {
+
+       "id": 8,
+
+      "name": "Adidas FWD-01 Sport In-Ear Bluetooth Earphone",
+
+      "cost": "100"
+
+    }
+
+  ]
+
+}
