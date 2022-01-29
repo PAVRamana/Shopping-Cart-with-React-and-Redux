@@ -10,7 +10,7 @@ import './Resources/css/App.css';
 class App extends Component {
 
   showPage = (path) => {
-    this.props.history.push('/' + path);
+    this.props.history.push('/' + path);console.log("test");
   }
 
   render() {
